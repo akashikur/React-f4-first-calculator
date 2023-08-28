@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Delpoy Link:https://64d79c492b3e7910a9c3c6d8--frolicking-mousse-c44358.netlify.app/  .
+Delpoy Link:https://64d79c492b3e7910a9c3c6d8--frolicking-mousse-c44358.netlify.app/  .\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
